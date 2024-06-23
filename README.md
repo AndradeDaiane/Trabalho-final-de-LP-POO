@@ -25,7 +25,7 @@ Este é um projeto de implementação de um sistema de vendas de Livros em Java,
 - Permite ao usuário fazer um cadastro ou acessar o sistema;
 - Opção para recuperação de senha.
 
-### Adicionar o Livro ao Carrinho de Compra 📖➕:
+### Adicionar Livros ao Carrinho de Compra 📖➕:
 
 - Os usuários podem selecionar produtos na vitrine ao clicar no Livro e abri a tela de Detalhe, no qual irá aparecer o botão adicionar no Carrinho.
 - Eles podem escolher a quatidade conforme estoque pré estabelecido. Lembrando que se escolher uma quantidade maior do que está em estoque, irá aparecer uma mensagem informando que pode adionar de x a x qunatidade.
