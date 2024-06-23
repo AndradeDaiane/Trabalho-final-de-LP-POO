@@ -63,7 +63,7 @@ https://github.com/AndradeDaiane/Trabalho-final-de-LP-POO/assets/161532533/0d091
 2. Baixe este repositório do meu GitHub.
 3. Importe o projeto.
 4. Compile o código-fonte.
-5. Execute a classe `TelaLogin` para iniciar o sistema.
+5. Execute a classe `TelaPrincipal` para iniciar o sistema.
 6. Faça login com as credenciais ou crie uma cadastro.
 7. Explore a vitrine de livros, adicione itens ao carrinho, realize o pagamento. 
 
