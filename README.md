@@ -1,2 +1,2 @@
-# Trabalho-final-de-LP-POO
+# Trabalho Final de LP/POO
 Trabalho da Facudade
